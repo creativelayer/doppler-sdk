@@ -15,7 +15,7 @@ export const START_BLOCKS = {
   unichain: 8536880,
   baseSepolia: 27805302,
   ink: 9500879,
-  base: 28415520,
+  base: 31524358,
 } as const;
 
 export const V4_START_BLOCKS = {
